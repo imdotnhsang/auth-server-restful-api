@@ -1,1 +1,1 @@
-# auth-server-restfult-api
+# auth-server-restful-api
